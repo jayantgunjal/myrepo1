@@ -1,1 +1,7 @@
-Welcome to java
+class welcome
+{
+	public static void main(String args[])
+	{
+
+	}
+}
